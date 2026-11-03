@@ -142,3 +142,7 @@ Email: tiwaridhruv817@gmail.com
 ⭐ If you like this project
 
 Give it a Star on GitHub and share it
+
+Developed & Modified By
+Dhruv Tiwari
+Based on an open-source pothole detection project, customized and maintained by Dhruv Tiwari.
