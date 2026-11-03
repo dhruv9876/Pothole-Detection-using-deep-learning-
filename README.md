@@ -128,7 +128,7 @@ https://potholedetectionlatest-5pabdteolypggkqn6nfwhb.streamlit.app/
 
 👨‍💻 Author
 
-Vikash Kumar Singh
+DHRUV TIWARI
 AI & ML Enthusiast | Python Developer
 
 ⭐ If you like this project
