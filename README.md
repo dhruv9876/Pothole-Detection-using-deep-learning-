@@ -1,3 +1,9 @@
+Pothole Detection using Deep Learning
+A deep learning-based web application for detecting potholes from images and videos.
+
+Developed By
+Dhruv Tiwari
+
 ## 🚧 Pothole Detection System using YOLO & Streamlit
 ## 📌 Project Overview
 
@@ -50,18 +56,16 @@ The goal of this project is to help in road safety, smart city planning, and aut
 
 ## ⚙️ Installation & Setup
 1. Clone Repository
-* git clone https://github.com/vikash8019/pothole-detection.git  
-* cd pothole_detection_latest  
+git clone https://github.com/dhruv9876/Pothole-Detection-using-deep-learning-.git
 
-2. Create Virtual Environment (Recommended)
-* python -m venv venv
-* venv\Scripts\activate
+2. Navigate to Project Directory
+cd Pothole-Detection-using-deep-learning-
 
 3. Install Dependencies
-* pip install -r requirements.txt
+pip install -r requirements.txt
 
-4. Run Application
-* streamlit run app.py
+4. Run the Application
+streamlit run app.py
 
 ## 📷 How It Works
 
@@ -128,8 +132,12 @@ https://potholedetectionlatest-5pabdteolypggkqn6nfwhb.streamlit.app/
 
 👨‍💻 Author
 
-DHRUV TIWARI
-AI & ML Enthusiast | Python Developer
+Dhruv Tiwari
+
+Passionate about Python, AI, Machine Learning, and Computer Vision.
+
+GitHub: https://github.com/dhruv9876
+Email: tiwaridhruv817@gmail.com
 
 ⭐ If you like this project
 
